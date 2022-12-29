@@ -1,0 +1,488 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		C251A25F294FC88700B21E24 /* Colors.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C251A25E294FC88700B21E24 /* Colors.xcassets */; };
+		C251A264294FC8A500B21E24 /* Theme.swift in Sources */ = {isa = PBXBuildFile; fileRef = C251A260294FC8A500B21E24 /* Theme.swift */; };
+		C251A265294FC8A500B21E24 /* ThemeProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = C251A261294FC8A500B21E24 /* ThemeProtocol.swift */; };
+		C251A266294FC8A500B21E24 /* LightTheme.swift in Sources */ = {isa = PBXBuildFile; fileRef = C251A262294FC8A500B21E24 /* LightTheme.swift */; };
+		C251A267294FC8A500B21E24 /* DarkTheme.swift in Sources */ = {isa = PBXBuildFile; fileRef = C251A263294FC8A500B21E24 /* DarkTheme.swift */; };
+		C2DD9EF9294BDFAC008F0AA8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2DD9EF8294BDFAC008F0AA8 /* ViewController.swift */; };
+		C2DD9EFD294BDFF7008F0AA8 /* MoneyTrackerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2DD9EFC294BDFF7008F0AA8 /* MoneyTrackerViewController.swift */; };
+		C2DD9EFF294BE007008F0AA8 /* AmountViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2DD9EFE294BE007008F0AA8 /* AmountViewController.swift */; };
+		C2DD9F01294BE036008F0AA8 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2DD9F00294BE036008F0AA8 /* SettingsViewController.swift */; };
+		C2DD9F03294BF974008F0AA8 /* EntryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2DD9F02294BF974008F0AA8 /* EntryViewController.swift */; };
+		C2DD9F05294BF990008F0AA8 /* ReminderViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2DD9F04294BF990008F0AA8 /* ReminderViewController.swift */; };
+		C2E1F7A8294AB55A00FF7246 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2E1F7A7294AB55A00FF7246 /* AppDelegate.swift */; };
+		C2E1F7AA294AB55A00FF7246 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2E1F7A9294AB55A00FF7246 /* SceneDelegate.swift */; };
+		C2E1F7AC294AB55A00FF7246 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2E1F7AB294AB55A00FF7246 /* LoginViewController.swift */; };
+		C2E1F7AF294AB55A00FF7246 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C2E1F7AD294AB55A00FF7246 /* Main.storyboard */; };
+		C2E1F7B2294AB55A00FF7246 /* FINAL_JunzhiChen.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = C2E1F7B0294AB55A00FF7246 /* FINAL_JunzhiChen.xcdatamodeld */; };
+		C2E1F7B4294AB55B00FF7246 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C2E1F7B3294AB55B00FF7246 /* Assets.xcassets */; };
+		C2E1F7B7294AB55B00FF7246 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C2E1F7B5294AB55B00FF7246 /* LaunchScreen.storyboard */; };
+		C2E1F7C0294AE56A00FF7246 /* FacebookCore in Frameworks */ = {isa = PBXBuildFile; productRef = C2E1F7BF294AE56A00FF7246 /* FacebookCore */; };
+		C2E1F7C2294AE56A00FF7246 /* FacebookGamingServices in Frameworks */ = {isa = PBXBuildFile; productRef = C2E1F7C1294AE56A00FF7246 /* FacebookGamingServices */; };
+		C2E1F7C4294AE56A00FF7246 /* FacebookLogin in Frameworks */ = {isa = PBXBuildFile; productRef = C2E1F7C3294AE56A00FF7246 /* FacebookLogin */; };
+		C2E1F7C6294AE56A00FF7246 /* FacebookShare in Frameworks */ = {isa = PBXBuildFile; productRef = C2E1F7C5294AE56A00FF7246 /* FacebookShare */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		C251A20C294F95C000B21E24 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/Main.strings"; sourceTree = "<group>"; };
+		C251A20D294F95C000B21E24 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/LaunchScreen.strings"; sourceTree = "<group>"; };
+		C251A25E294FC88700B21E24 /* Colors.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Colors.xcassets; sourceTree = "<group>"; };
+		C251A260294FC8A500B21E24 /* Theme.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Theme.swift; sourceTree = "<group>"; };
+		C251A261294FC8A500B21E24 /* ThemeProtocol.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ThemeProtocol.swift; sourceTree = "<group>"; };
+		C251A262294FC8A500B21E24 /* LightTheme.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LightTheme.swift; sourceTree = "<group>"; };
+		C251A263294FC8A500B21E24 /* DarkTheme.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DarkTheme.swift; sourceTree = "<group>"; };
+		C2DD9EF8294BDFAC008F0AA8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		C2DD9EFC294BDFF7008F0AA8 /* MoneyTrackerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoneyTrackerViewController.swift; sourceTree = "<group>"; };
+		C2DD9EFE294BE007008F0AA8 /* AmountViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AmountViewController.swift; sourceTree = "<group>"; };
+		C2DD9F00294BE036008F0AA8 /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
+		C2DD9F02294BF974008F0AA8 /* EntryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EntryViewController.swift; sourceTree = "<group>"; };
+		C2DD9F04294BF990008F0AA8 /* ReminderViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReminderViewController.swift; sourceTree = "<group>"; };
+		C2E1F7A4294AB55A00FF7246 /* FINAL_JunzhiChen.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FINAL_JunzhiChen.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		C2E1F7A7294AB55A00FF7246 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		C2E1F7A9294AB55A00FF7246 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		C2E1F7AB294AB55A00FF7246 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		C2E1F7AE294AB55A00FF7246 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		C2E1F7B1294AB55A00FF7246 /* FINAL_JunzhiChen.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = FINAL_JunzhiChen.xcdatamodel; sourceTree = "<group>"; };
+		C2E1F7B3294AB55B00FF7246 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		C2E1F7B6294AB55B00FF7246 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		C2E1F7B8294AB55B00FF7246 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C2E1F7C7294AE7CA00FF7246 /* FINAL_JunzhiChen.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = FINAL_JunzhiChen.entitlements; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		C2E1F7A1294AB55A00FF7246 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C2E1F7C0294AE56A00FF7246 /* FacebookCore in Frameworks */,
+				C2E1F7C2294AE56A00FF7246 /* FacebookGamingServices in Frameworks */,
+				C2E1F7C6294AE56A00FF7246 /* FacebookShare in Frameworks */,
+				C2E1F7C4294AE56A00FF7246 /* FacebookLogin in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		C2E1F79B294AB55A00FF7246 = {
+			isa = PBXGroup;
+			children = (
+				C2E1F7A6294AB55A00FF7246 /* FINAL_JunzhiChen */,
+				C2E1F7A5294AB55A00FF7246 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		C2E1F7A5294AB55A00FF7246 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				C2E1F7A4294AB55A00FF7246 /* FINAL_JunzhiChen.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		C2E1F7A6294AB55A00FF7246 /* FINAL_JunzhiChen */ = {
+			isa = PBXGroup;
+			children = (
+				C2E1F7C7294AE7CA00FF7246 /* FINAL_JunzhiChen.entitlements */,
+				C2E1F7A7294AB55A00FF7246 /* AppDelegate.swift */,
+				C2E1F7A9294AB55A00FF7246 /* SceneDelegate.swift */,
+				C2E1F7AB294AB55A00FF7246 /* LoginViewController.swift */,
+				C2DD9EF8294BDFAC008F0AA8 /* ViewController.swift */,
+				C2DD9F02294BF974008F0AA8 /* EntryViewController.swift */,
+				C2DD9F04294BF990008F0AA8 /* ReminderViewController.swift */,
+				C2DD9EFC294BDFF7008F0AA8 /* MoneyTrackerViewController.swift */,
+				C2DD9EFE294BE007008F0AA8 /* AmountViewController.swift */,
+				C2DD9F00294BE036008F0AA8 /* SettingsViewController.swift */,
+				C251A263294FC8A500B21E24 /* DarkTheme.swift */,
+				C251A262294FC8A500B21E24 /* LightTheme.swift */,
+				C251A260294FC8A500B21E24 /* Theme.swift */,
+				C251A261294FC8A500B21E24 /* ThemeProtocol.swift */,
+				C251A25E294FC88700B21E24 /* Colors.xcassets */,
+				C2E1F7AD294AB55A00FF7246 /* Main.storyboard */,
+				C2E1F7B3294AB55B00FF7246 /* Assets.xcassets */,
+				C2E1F7B5294AB55B00FF7246 /* LaunchScreen.storyboard */,
+				C2E1F7B8294AB55B00FF7246 /* Info.plist */,
+				C2E1F7B0294AB55A00FF7246 /* FINAL_JunzhiChen.xcdatamodeld */,
+			);
+			path = FINAL_JunzhiChen;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		C2E1F7A3294AB55A00FF7246 /* FINAL_JunzhiChen */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C2E1F7BB294AB55B00FF7246 /* Build configuration list for PBXNativeTarget "FINAL_JunzhiChen" */;
+			buildPhases = (
+				C2E1F7A0294AB55A00FF7246 /* Sources */,
+				C2E1F7A1294AB55A00FF7246 /* Frameworks */,
+				C2E1F7A2294AB55A00FF7246 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = FINAL_JunzhiChen;
+			packageProductDependencies = (
+				C2E1F7BF294AE56A00FF7246 /* FacebookCore */,
+				C2E1F7C1294AE56A00FF7246 /* FacebookGamingServices */,
+				C2E1F7C3294AE56A00FF7246 /* FacebookLogin */,
+				C2E1F7C5294AE56A00FF7246 /* FacebookShare */,
+			);
+			productName = FINAL_JunzhiChen;
+			productReference = C2E1F7A4294AB55A00FF7246 /* FINAL_JunzhiChen.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		C2E1F79C294AB55A00FF7246 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1410;
+				LastUpgradeCheck = 1410;
+				TargetAttributes = {
+					C2E1F7A3294AB55A00FF7246 = {
+						CreatedOnToolsVersion = 14.1;
+					};
+				};
+			};
+			buildConfigurationList = C2E1F79F294AB55A00FF7246 /* Build configuration list for PBXProject "FINAL_JunzhiChen" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+				"zh-Hans",
+			);
+			mainGroup = C2E1F79B294AB55A00FF7246;
+			packageReferences = (
+				C2E1F7BE294AE56A00FF7246 /* XCRemoteSwiftPackageReference "facebook-ios-sdk" */,
+			);
+			productRefGroup = C2E1F7A5294AB55A00FF7246 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				C2E1F7A3294AB55A00FF7246 /* FINAL_JunzhiChen */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		C2E1F7A2294AB55A00FF7246 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C2E1F7B7294AB55B00FF7246 /* LaunchScreen.storyboard in Resources */,
+				C251A25F294FC88700B21E24 /* Colors.xcassets in Resources */,
+				C2E1F7B4294AB55B00FF7246 /* Assets.xcassets in Resources */,
+				C2E1F7AF294AB55A00FF7246 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		C2E1F7A0294AB55A00FF7246 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C2E1F7B2294AB55A00FF7246 /* FINAL_JunzhiChen.xcdatamodeld in Sources */,
+				C2E1F7AC294AB55A00FF7246 /* LoginViewController.swift in Sources */,
+				C2DD9EFF294BE007008F0AA8 /* AmountViewController.swift in Sources */,
+				C251A265294FC8A500B21E24 /* ThemeProtocol.swift in Sources */,
+				C251A266294FC8A500B21E24 /* LightTheme.swift in Sources */,
+				C251A267294FC8A500B21E24 /* DarkTheme.swift in Sources */,
+				C2E1F7A8294AB55A00FF7246 /* AppDelegate.swift in Sources */,
+				C251A264294FC8A500B21E24 /* Theme.swift in Sources */,
+				C2DD9EFD294BDFF7008F0AA8 /* MoneyTrackerViewController.swift in Sources */,
+				C2DD9F03294BF974008F0AA8 /* EntryViewController.swift in Sources */,
+				C2DD9EF9294BDFAC008F0AA8 /* ViewController.swift in Sources */,
+				C2E1F7AA294AB55A00FF7246 /* SceneDelegate.swift in Sources */,
+				C2DD9F05294BF990008F0AA8 /* ReminderViewController.swift in Sources */,
+				C2DD9F01294BE036008F0AA8 /* SettingsViewController.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		C2E1F7AD294AB55A00FF7246 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C2E1F7AE294AB55A00FF7246 /* Base */,
+				C251A20C294F95C000B21E24 /* zh-Hans */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		C2E1F7B5294AB55B00FF7246 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C2E1F7B6294AB55B00FF7246 /* Base */,
+				C251A20D294F95C000B21E24 /* zh-Hans */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		C2E1F7B9294AB55B00FF7246 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.1;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		C2E1F7BA294AB55B00FF7246 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C2E1F7BC294AB55B00FF7246 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = FINAL_JunzhiChen/FINAL_JunzhiChen.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = DXYGNW6R6Q;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = FINAL_JunzhiChen/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = Notes;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Chen.FINAL-JunzhiChen";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		C2E1F7BD294AB55B00FF7246 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = FINAL_JunzhiChen/FINAL_JunzhiChen.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = DXYGNW6R6Q;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = FINAL_JunzhiChen/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = Notes;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Chen.FINAL-JunzhiChen";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		C2E1F79F294AB55A00FF7246 /* Build configuration list for PBXProject "FINAL_JunzhiChen" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C2E1F7B9294AB55B00FF7246 /* Debug */,
+				C2E1F7BA294AB55B00FF7246 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C2E1F7BB294AB55B00FF7246 /* Build configuration list for PBXNativeTarget "FINAL_JunzhiChen" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C2E1F7BC294AB55B00FF7246 /* Debug */,
+				C2E1F7BD294AB55B00FF7246 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		C2E1F7BE294AE56A00FF7246 /* XCRemoteSwiftPackageReference "facebook-ios-sdk" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/facebook/facebook-ios-sdk";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 9.0.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		C2E1F7BF294AE56A00FF7246 /* FacebookCore */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = C2E1F7BE294AE56A00FF7246 /* XCRemoteSwiftPackageReference "facebook-ios-sdk" */;
+			productName = FacebookCore;
+		};
+		C2E1F7C1294AE56A00FF7246 /* FacebookGamingServices */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = C2E1F7BE294AE56A00FF7246 /* XCRemoteSwiftPackageReference "facebook-ios-sdk" */;
+			productName = FacebookGamingServices;
+		};
+		C2E1F7C3294AE56A00FF7246 /* FacebookLogin */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = C2E1F7BE294AE56A00FF7246 /* XCRemoteSwiftPackageReference "facebook-ios-sdk" */;
+			productName = FacebookLogin;
+		};
+		C2E1F7C5294AE56A00FF7246 /* FacebookShare */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = C2E1F7BE294AE56A00FF7246 /* XCRemoteSwiftPackageReference "facebook-ios-sdk" */;
+			productName = FacebookShare;
+		};
+/* End XCSwiftPackageProductDependency section */
+
+/* Begin XCVersionGroup section */
+		C2E1F7B0294AB55A00FF7246 /* FINAL_JunzhiChen.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				C2E1F7B1294AB55A00FF7246 /* FINAL_JunzhiChen.xcdatamodel */,
+			);
+			currentVersion = C2E1F7B1294AB55A00FF7246 /* FINAL_JunzhiChen.xcdatamodel */;
+			path = FINAL_JunzhiChen.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
+	};
+	rootObject = C2E1F79C294AB55A00FF7246 /* Project object */;
+}

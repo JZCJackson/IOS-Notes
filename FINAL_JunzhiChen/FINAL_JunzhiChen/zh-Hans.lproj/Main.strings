@@ -1,0 +1,285 @@
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "03h-BK-W68"; */
+"03h-BK-W68.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UIButton"; configuration.title = "Select Date"; ObjectID = "10Y-Ft-7s3"; */
+"10Y-Ft-7s3.configuration.title" = "Select Date";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "10Y-Ft-7s3"; */
+"10Y-Ft-7s3.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Today"; ObjectID = "1pA-4v-yV8"; */
+"1pA-4v-yV8.text" = "Today";
+
+/* Class = "UIButton"; configuration.title = "Movements"; ObjectID = "27S-u9-K38"; */
+"27S-u9-K38.configuration.title" = "Movements";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "27S-u9-K38"; */
+"27S-u9-K38.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Money Tracker"; ObjectID = "5rO-7p-yui"; */
+"5rO-7p-yui.text" = "Money Tracker";
+
+/* Class = "UIButton"; configuration.title = "Enter new Amount"; ObjectID = "67X-fv-nv9"; */
+"67X-fv-nv9.configuration.title" = "Enter new Amount";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "67X-fv-nv9"; */
+"67X-fv-nv9.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "🖥️"; ObjectID = "6Ec-0o-WPz"; */
+"6Ec-0o-WPz.text" = "🖥️";
+
+/* Class = "UIButton"; configuration.title = "+"; ObjectID = "6ut-bM-EiD"; */
+"6ut-bM-EiD.configuration.title" = "+";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "6ut-bM-EiD"; */
+"6ut-bM-EiD.normalTitle" = "Button";
+
+/* Class = "UITabBarItem"; title = "ToDo List"; ObjectID = "71q-RW-Ksz"; */
+"71q-RW-Ksz.title" = "ToDo List";
+
+/* Class = "UIButton"; configuration.title = "Dark"; ObjectID = "8cO-x1-QjE"; */
+"8cO-x1-QjE.configuration.title" = "Dark";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "8cO-x1-QjE"; */
+"8cO-x1-QjE.normalTitle" = "Button";
+
+/* Class = "UITextField"; text = "Language"; ObjectID = "90Q-qN-OOr"; */
+"90Q-qN-OOr.text" = "Language";
+
+/* Class = "UIButton"; configuration.title = "Rate the App                                             >"; ObjectID = "B9f-NE-xic"; */
+"B9f-NE-xic.configuration.title" = "Rate the App                                             >";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "B9f-NE-xic"; */
+"B9f-NE-xic.normalTitle" = "Button";
+
+/* Class = "UITextField"; text = "Amount"; ObjectID = "Bm2-jI-0Ec"; */
+"Bm2-jI-0Ec.text" = "Amount";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "C3i-ND-HRm"; */
+"C3i-ND-HRm.text" = "Settings";
+
+/* Class = "UITextField"; text = "Add Smiley"; ObjectID = "Cjc-oV-VUt"; */
+"Cjc-oV-VUt.text" = "Add Smiley";
+
+/* Class = "UIButton"; configuration.title = "+"; ObjectID = "G6g-dv-yGm"; */
+"G6g-dv-yGm.configuration.title" = "+";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "G6g-dv-yGm"; */
+"G6g-dv-yGm.normalTitle" = "Button";
+
+/* Class = "UITabBarItem"; title = "Settings"; ObjectID = "H2y-nG-2au"; */
+"H2y-nG-2au.title" = "Settings";
+
+/* Class = "UILabel"; text = "Amount"; ObjectID = "Hx1-ON-Gos"; */
+"Hx1-ON-Gos.text" = "Amount";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "JNs-go-AxK"; */
+"JNs-go-AxK.text" = "Subtitle";
+
+/* Class = "UIButton"; configuration.title = "😍"; ObjectID = "M38-rT-qtl"; */
+"M38-rT-qtl.configuration.title" = "😍";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "M38-rT-qtl"; */
+"M38-rT-qtl.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "😊"; ObjectID = "MZf-oK-N8Q"; */
+"MZf-oK-N8Q.configuration.title" = "😊";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "MZf-oK-N8Q"; */
+"MZf-oK-N8Q.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Upgrade to Pro                                         >"; ObjectID = "MgR-Xr-VVb"; */
+"MgR-Xr-VVb.configuration.title" = "Upgrade to Pro                                         >";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "MgR-Xr-VVb"; */
+"MgR-Xr-VVb.normalTitle" = "Button";
+
+/* Class = "UITabBarItem"; title = "Settings"; ObjectID = "NzH-1s-S1C"; */
+"NzH-1s-S1C.title" = "Settings";
+
+/* Class = "UIButton"; configuration.title = "Select Date"; ObjectID = "OgU-rH-QF1"; */
+"OgU-rH-QF1.configuration.title" = "Select Date";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "OgU-rH-QF1"; */
+"OgU-rH-QF1.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "☹️"; ObjectID = "Qac-bT-tuy"; */
+"Qac-bT-tuy.configuration.title" = "☹️";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Qac-bT-tuy"; */
+"Qac-bT-tuy.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "No New Amount Yet"; ObjectID = "R8A-tv-5Gm"; */
+"R8A-tv-5Gm.text" = "No New Amount Yet";
+
+/* Class = "UITabBarItem"; title = "Settings"; ObjectID = "RUm-kO-Ib6"; */
+"RUm-kO-Ib6.title" = "Settings";
+
+/* Class = "UITabBarItem"; title = "Finance"; ObjectID = "S19-Wz-GAm"; */
+"S19-Wz-GAm.title" = "Finance";
+
+/* Class = "UITextField"; text = "Color Style"; ObjectID = "UN3-GK-Dj9"; */
+"UN3-GK-Dj9.text" = "Color Style";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "UuR-Gc-Ye0"; */
+"UuR-Gc-Ye0.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "Vvp-Yj-8Sn"; */
+"Vvp-Yj-8Sn.placeholder" = "Password";
+
+/* Class = "UITabBarItem"; title = "ToDo"; ObjectID = "W6U-4h-WYu"; */
+"W6U-4h-WYu.title" = "ToDo";
+
+/* Class = "UILabel"; text = "👨‍👩‍👦"; ObjectID = "WUj-Hb-aLn"; */
+"WUj-Hb-aLn.text" = "👨‍👩‍👦";
+
+/* Class = "UIButton"; configuration.title = "Select Time"; ObjectID = "X40-2T-Cmm"; */
+"X40-2T-Cmm.configuration.title" = "Select Time";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "X40-2T-Cmm"; */
+"X40-2T-Cmm.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "New Mount"; ObjectID = "XXz-ko-Ka0"; */
+"XXz-ko-Ka0.text" = "New Mount";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "XYa-GG-uDQ"; */
+"XYa-GG-uDQ.text" = "Title";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ZOB-mW-40j"; */
+"ZOB-mW-40j.normalTitle" = "Button";
+
+/* Class = "UITextField"; text = "Details"; ObjectID = "ZXT-4m-B9D"; */
+"ZXT-4m-B9D.text" = "Details";
+
+/* Class = "UILabel"; text = "Todos"; ObjectID = "Zs0-6l-LmW"; */
+"Zs0-6l-LmW.text" = "Todos";
+
+/* Class = "UILabel"; text = "No Reminder Yet"; ObjectID = "a6s-Nn-OSN"; */
+"a6s-Nn-OSN.text" = "No Reminder Yet";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "azI-Si-uL0"; */
+"azI-Si-uL0.placeholder" = "Username";
+
+/* Class = "UILabel"; text = "⏱️"; ObjectID = "bk3-Cr-k2j"; */
+"bk3-Cr-k2j.text" = "⏱️";
+
+/* Class = "UIButton"; configuration.title = "Statistics"; ObjectID = "dOq-iZ-YCD"; */
+"dOq-iZ-YCD.configuration.title" = "Statistics";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "dOq-iZ-YCD"; */
+"dOq-iZ-YCD.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "+"; ObjectID = "e7b-R5-s6E"; */
+"e7b-R5-s6E.configuration.title" = "+";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "e7b-R5-s6E"; */
+"e7b-R5-s6E.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Forgot password?"; ObjectID = "ess-JW-ebv"; */
+"ess-JW-ebv.configuration.title" = "Forgot password?";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ess-JW-ebv"; */
+"ess-JW-ebv.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Work                                                                  >"; ObjectID = "feN-zK-b1l"; */
+"feN-zK-b1l.configuration.title" = "Work                                                                  >";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "feN-zK-b1l"; */
+"feN-zK-b1l.normalTitle" = "Button";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "g90-L5-CFG"; */
+"g90-L5-CFG.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "Login"; ObjectID = "gk7-eE-ssH"; */
+"gk7-eE-ssH.text" = "Login";
+
+/* Class = "UITextField"; text = "Reminder Name"; ObjectID = "ije-B6-Mw8"; */
+"ije-B6-Mw8.text" = "Reminder Name";
+
+/* Class = "UILabel"; text = "Or Login with..."; ObjectID = "j5Z-gM-h2P"; */
+"j5Z-gM-h2P.text" = "Or Login with...";
+
+/* Class = "UIButton"; configuration.title = "Show all movements"; ObjectID = "jHp-9d-fnd"; */
+"jHp-9d-fnd.configuration.title" = "Show all movements";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "jHp-9d-fnd"; */
+"jHp-9d-fnd.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "😐"; ObjectID = "jvE-FN-0vc"; */
+"jvE-FN-0vc.configuration.title" = "😐";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "jvE-FN-0vc"; */
+"jvE-FN-0vc.normalTitle" = "Button";
+
+/* Class = "UITextField"; text = "Category"; ObjectID = "k6l-4J-pk8"; */
+"k6l-4J-pk8.text" = "Category";
+
+/* Class = "UIButton"; configuration.title = "Outgoing Payment"; ObjectID = "lTt-e3-buK"; */
+"lTt-e3-buK.configuration.title" = "Outgoing Payment";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "lTt-e3-buK"; */
+"lTt-e3-buK.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Create Reminder"; ObjectID = "laP-Hl-Y4y"; */
+"laP-Hl-Y4y.configuration.title" = "Create Reminder";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "laP-Hl-Y4y"; */
+"laP-Hl-Y4y.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Google"; ObjectID = "mDe-PP-Ufz"; */
+"mDe-PP-Ufz.configuration.title" = "Google";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "mDe-PP-Ufz"; */
+"mDe-PP-Ufz.normalTitle" = "Button";
+
+/* Class = "UITabBarItem"; title = "Settings"; ObjectID = "mNA-ZP-puV"; */
+"mNA-ZP-puV.title" = "Settings";
+
+/* Class = "UITextField"; text = "Amount Name"; ObjectID = "nke-F8-BIn"; */
+"nke-F8-BIn.text" = "Amount Name";
+
+/* Class = "UIButton"; configuration.title = "Login"; ObjectID = "oAY-dZ-i3U"; */
+"oAY-dZ-i3U.configuration.title" = "Login";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "oAY-dZ-i3U"; */
+"oAY-dZ-i3U.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "qcc-Ox-l07"; */
+"qcc-Ox-l07.text" = "Title";
+
+/* Class = "UILabel"; text = "New Reminder"; ObjectID = "qps-xr-yhv"; */
+"qps-xr-yhv.text" = "New Reminder";
+
+/* Class = "UIButton"; configuration.title = "General                                                      >"; ObjectID = "rEa-Au-3mM"; */
+"rEa-Au-3mM.configuration.title" = "General                                                      >";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "rEa-Au-3mM"; */
+"rEa-Au-3mM.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "White"; ObjectID = "rHi-U9-gAF"; */
+"rHi-U9-gAF.configuration.title" = "White";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "rHi-U9-gAF"; */
+"rHi-U9-gAF.normalTitle" = "Button";
+
+/* Class = "UITextField"; text = "Note"; ObjectID = "rTo-ov-nw6"; */
+"rTo-ov-nw6.text" = "Note";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "rtU-zQ-m1k"; */
+"rtU-zQ-m1k.text" = "Subtitle";
+
+/* Class = "UITextField"; text = "Category"; ObjectID = "ueL-AT-S5d"; */
+"ueL-AT-S5d.text" = "Category";
+
+/* Class = "UITextField"; text = "Details"; ObjectID = "wAC-DL-AUE"; */
+"wAC-DL-AUE.text" = "Details";
+
+/* Class = "UIButton"; configuration.title = "Select Time"; ObjectID = "wlc-Hj-mOF"; */
+"wlc-Hj-mOF.configuration.title" = "Select Time";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "wlc-Hj-mOF"; */
+"wlc-Hj-mOF.normalTitle" = "Button";
+
+/* Class = "UITextField"; text = "Headline"; ObjectID = "xAK-n6-Zc8"; */
+"xAK-n6-Zc8.text" = "Headline";
